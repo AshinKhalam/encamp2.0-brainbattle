@@ -1,11 +1,20 @@
 @import url(fontawesome-all.min.css);
-
+@import url('https://fonts.googleapis.com/css2?family=Oswald&family=Roboto+Condensed&family=Staatliches&display=swap');
 /*
 	Hyperspace by HTML5 UP
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
-
+.oswald{
+	font-family:'Oswald', sans-serif ;
+}
+.staatliches{
+	font-family: 'Staatliches', cursive;
+}
+.pseudo-heading{
+	font-size: 20px;
+	font-weight: bold;
+}
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
 pre, a, abbr, acronym, address, big, cite,
@@ -3240,7 +3249,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style1 {
-			background-color: #5e42a6;
+			background-color: #8d2032;
 		}
 
 		.wrapper.style1-alt {
@@ -3252,11 +3261,11 @@ input, select, textarea {
 		}
 
 		.wrapper.style2-alt {
-			background-color: #3e4094;
+			background-color: #851537;
 		}
 
 		.wrapper.style3 {
-			background-color: #b74e91;
+			background-color: #b74e60;
 		}
 
 		.wrapper.style3-alt {
