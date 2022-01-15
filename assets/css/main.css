@@ -5,6 +5,7 @@
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
+
 .oswald{
 	font-family:'Oswald', sans-serif ;
 }
@@ -3249,7 +3250,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style1 {
-			background-color: #00003b;
+			background-color: #000000;
 			color: white;
 		}
 
@@ -3258,7 +3259,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style2 {
-			background-color: #000;
+			background-color: #00003b;
 			color: white;
 		}
 
@@ -3535,7 +3536,7 @@ input, select, textarea {
 
 	#sidebar {
 		padding: 2.5em 2.5em 0.5em 2.5em ;
-		background: #312450;
+		background: #115998;
 		cursor: default;
 		height: 100vh;
 		left: 0;
@@ -3772,14 +3773,14 @@ input, select, textarea {
 			}
 
 			#sidebar nav a:before {
-				background: #3c2c62;
+				background: #0daee4;
 			}
 
 			#sidebar nav a:after {
-				background-image: -moz-linear-gradient(to right, #5e42a6, #b74e91);
-				background-image: -webkit-linear-gradient(to right, #5e42a6, #b74e91);
-				background-image: -ms-linear-gradient(to right, #5e42a6, #b74e91);
-				background-image: linear-gradient(to right, #5e42a6, #b74e91);
+				background-image: -moz-linear-gradient(to right, #2525c6, #258af0);
+				background-image: -webkit-linear-gradient(to right, #2525c6, #258af0);
+				background-image: -ms-linear-gradient(to right, #2525c6, #258af0);
+				background-image: linear-gradient(to right, #2525c6, #258af0);
 				-moz-transition: max-width 0.2s ease;
 				-webkit-transition: max-width 0.2s ease;
 				-ms-transition: max-width 0.2s ease;
@@ -3918,3 +3919,4 @@ input, select, textarea {
 			}
 
 		}
+		
