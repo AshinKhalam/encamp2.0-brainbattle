@@ -3249,7 +3249,8 @@ input, select, textarea {
 		}
 
 		.wrapper.style1 {
-			background-color: #8d2032;
+			background-color: #000080;
+			color: white;
 		}
 
 		.wrapper.style1-alt {
@@ -3257,7 +3258,8 @@ input, select, textarea {
 		}
 
 		.wrapper.style2 {
-			background-color: #5052b5;
+			background-color: #000;
+			color: white;
 		}
 
 		.wrapper.style2-alt {
@@ -3265,7 +3267,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style3 {
-			background-color: #b74e60;
+			background-color: #000;
 		}
 
 		.wrapper.style3-alt {
